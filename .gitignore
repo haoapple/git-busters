@@ -1,4 +1,0 @@
-# ignore large data file
-
-*.csv
-/data/*
